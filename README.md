@@ -78,3 +78,6 @@ Dataset ini berisi List Akomodasi Airbnb di London UK, tahun 2022
    There is a high demand for affordable areas, as demonstrated by Cluster 2 (Comfort Corners) and Cluster 3 (Mid-Range Metros). These areas have high occupancy rates and are suitable for young professionals and families who require access to the city center and competitive prices.
 5. Space Constraints and Focus on Convenience:
    Both Clusters 0 and 4 have a more targeted market segmentation. Cluster 0 likely reflects an established residential area, while Cluster 4 is focused on the upper class. Despite their high demand, these locations present unique opportunities for further market segmentation.
+
+# Look forward to my portofolio: 
+https://docs.google.com/presentation/d/1Hl3Mypd1tNGoCHvEXPT8LLXyNU3Q4jDW/edit?usp=drivesdk&ouid=117122275634451052989&rtpof=true&sd=true
